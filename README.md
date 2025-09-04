@@ -1,7 +1,28 @@
-- 👋 Hi, my name is Imad Syed, I am a 3rd year Math and CS student at the University of Toronto
-- 👀 I’m interested in Mobile and Web Development in React and React Native
-- 🌱 I’m currently learning Backend Development with Express.js and Flask
-- In my free time, I play football (others may call it soccer...) and video games, as well as watch shows
+<h1>
+  About Me
+</h1>
+<ul>
+  <li>Full-stack developer / data analyst</li>
+  <li>Prev. @ City of Toronto developing full-stack production-level web apps, conducting analyses of large-scale relational databases</li>
+  <li>HBSc. in Mathematics and Computer Science from University of Toronto in 2025</li>
+  <li>Huge fan of Lord of the Rings and the Tolkien Legendarium</li>
+</ul>
+<h1>
+  Experience
+</h1>
+<ul>
+  <li>Node.js</li>
+  <li>Vue.js</li>
+  <li>React.js</li>
+  <li>React Native</li>
+  <li>Python</li>
+  <li>PostgreSQL</li>
+</ul>
+<h1>
+  Contact Me
+</h1>
+You can reach me at imadsyed333@gmail.com
+
 
 <!---
 imadsyed333/imadsyed333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
