@@ -1,4 +1,4 @@
-![cool poster image with cool spaceship with a cool name](https://media.discordapp.net/attachments/935622895009407009/1413296921904414751/image.png?ex=68bb6ad3&is=68ba1953&hm=a66a6b397aa3efb12ebf7ffd6a993dd6561ab81f1cc15eef078c928f075aa58c&=&format=webp&quality=lossless&width=1872&height=812)
+![cool poster image with cool spaceship with a cool name](./image.png)
 <h1>
   About Me
 </h1>
