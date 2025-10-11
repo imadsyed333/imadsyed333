@@ -7,7 +7,7 @@
   <li>Prev. @ City of Toronto developing full-stack production-level web apps, conducting analyses of large-scale relational databases</li>
   <li>HBSc. in Mathematics and Computer Science from University of Toronto in 2025</li>
   <li>Huge fan of Lord of the Rings and the Tolkien Legendarium</li>
-  <li>I make stuff in Blender (like that banner image)!</li>
+  <li>I make stuff in Blender (like that spaceship)</li>
 </ul>
 <h1>
   Experience
