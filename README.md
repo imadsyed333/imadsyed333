@@ -1,29 +1,15 @@
-![cool poster image with cool spaceship with a cool name](./image.png)
 <h1>
-  About Me
+  Hi, my name is Imad.
 </h1>
-<ul>
-  <li>Full-stack developer / data analyst</li>
-  <li>Prev. @ City of Toronto developing full-stack production-level web apps, conducting analyses of large-scale relational databases</li>
-  <li>HBSc. in Mathematics and Computer Science from University of Toronto in 2025</li>
-  <li>Huge fan of Lord of the Rings and the Tolkien Legendarium</li>
-  <li>I make stuff in Blender (like that spaceship)</li>
-</ul>
-<h1>
-  Experience
-</h1>
-<ul>
-  <li>Node.js</li>
-  <li>Vue.js</li>
-  <li>React.js</li>
-  <li>React Native</li>
-  <li>Python</li>
-  <li>PostgreSQL</li>
-</ul>
-<h1>
-  Contact Me
-</h1>
-You can reach me at imadsyed333@gmail.com
+I am a software developer dedicated to building solutions that solve real problems. 
+
+My usual tech stack consists of TypeScript, React, and Material UI, but I have begun to dabble in Express and FastAPI.
+
+Check out my pinned projects, especially [MOVE](https://github.com/CityofToronto/bdit_flashcrow) (also known as `bdit_flashcrow`). It's an open source web app for Toronto traffic analytics. I had a lot of fun contributing to it.
+
+I'm currently working on [CrashLog](https://github.com/imadsyed333/crashlog). It's a cross-platform mobile app which makes it easy for drivers to log critical info after a vehicle collision.
+
+Feel free to shoot me a message on any of my socials!
 
 
 <!---
